@@ -738,3 +738,14 @@ hr {
 .projtext{
 	text-align: justify;
 }
+.projimg{
+	margin-left:220px;
+}
+@media(max-width: 530px){
+	.projimg{
+	margin-left:120px;
+	}
+}
+.pstep{
+	text-align: justify;
+}
